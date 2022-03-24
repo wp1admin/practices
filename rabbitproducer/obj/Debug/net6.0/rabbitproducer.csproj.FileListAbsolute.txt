@@ -1,0 +1,17 @@
+C:\practices\rabbitproducer\bin\Debug\net6.0\rabbitproducer.exe
+C:\practices\rabbitproducer\bin\Debug\net6.0\rabbitproducer.deps.json
+C:\practices\rabbitproducer\bin\Debug\net6.0\rabbitproducer.runtimeconfig.json
+C:\practices\rabbitproducer\bin\Debug\net6.0\rabbitproducer.dll
+C:\practices\rabbitproducer\bin\Debug\net6.0\ref\rabbitproducer.dll
+C:\practices\rabbitproducer\bin\Debug\net6.0\rabbitproducer.pdb
+C:\practices\rabbitproducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.AssemblyReference.cache
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.AssemblyInfoInputs.cache
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.AssemblyInfo.cs
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.CoreCompileInputs.cache
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.CopyComplete
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.dll
+C:\practices\rabbitproducer\obj\Debug\net6.0\ref\rabbitproducer.dll
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.pdb
+C:\practices\rabbitproducer\obj\Debug\net6.0\rabbitproducer.genruntimeconfig.cache
