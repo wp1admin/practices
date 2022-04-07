@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mynginx
+  labels:
+    name: mynginx
+    company: astar
+    country: Singapore
+spec:
+  containers:
+    - name: mynginx
+      image: nginx

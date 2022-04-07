@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hellowebapi
+spec:
+  selector:
+    matchLabels:
+      app: hellowebapi
+  template:
+    metadata:
+      labels:
+        app: hellowebapi
+    spec:
+      containers:
+        - name: hellowebapi
+          image: yangchangjun/hellowebapi
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          ports:
+            - containerPort: 5000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: hellowebapi
+spec:
+  type: NodePort
+  selector:
+    app: hellowebapi
+  ports:
+    - port: 80
+      targetPort: 5000
+      nodePort: 31500

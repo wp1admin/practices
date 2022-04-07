@@ -1,0 +1,9 @@
+apiVersion: configuration.konghq.com/v1
+kind: KongPlugin
+metadata:
+  name: correlation-id-hello
+config:
+  header_name: TX-Request-ID
+  generator: uuid#counter
+  echo_downstream: true
+plugin: correlation-id
